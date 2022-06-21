@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Piotr
+- 👀 I’m interested in coding, learning, and creating.
+- 🌱 I’m currently learning JavaScript, Vue.js, Python
+- 📫 How to reach me - lou.cypher10@gmail.com
